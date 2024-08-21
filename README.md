@@ -9,13 +9,13 @@ This repository contains an example implementation of the SPL-Token 2022 Transfe
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/imalic3/spl-token-2022-transfer-hook-anchor.git
+   git clone https://github.com/rust-trust/spl2022-transfer-hook-anchor.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd spl-token-2022-transfer-hook-anchor
+   cd spl2022-transfer-hook-anchor
    ```
 
 3. Install project dependencies:
